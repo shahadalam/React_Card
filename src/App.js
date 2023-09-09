@@ -1,6 +1,7 @@
 
 import React, {useState} from 'react';
 // import NewCard from './Newcomponent/NewCard';
+// import NewCard from './Newcomponent/NewCard';
 import SubComponent from './mycomponent/SudComponent';
  // Import your component
 
